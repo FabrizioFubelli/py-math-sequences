@@ -1,3 +1,3 @@
 # Famous math sequences
 
- * [Catalan number](https://en.wikipedia.org/wiki/Catalan_number)
+ * [Catalan numbers](https://en.wikipedia.org/wiki/Catalan_number)
