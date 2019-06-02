@@ -1,7 +1,7 @@
-#!/bin/env python
+#!/usr/bin/env python2
 
 """
-Calculates the nth catalan number
+Calculates the nth Catalan number
 """
 
 import sys
